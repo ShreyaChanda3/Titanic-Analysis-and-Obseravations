@@ -1,7 +1,7 @@
 # Titanic Big Data Project
 
 ## Project Overview
-In this project, we analyzed the Titanic dataset using various data analysis and machine learning techniques. Below are the key steps and outputs of our project.
+In this project, I analyzed the Titanic dataset using various data analysis and machine learning techniques. Below are the key steps and outputs of our project.
 
 ### Loading Data for Titanic
 - Imported the dataset “Titanic.csv” and printed it.
